@@ -1,6 +1,0 @@
-﻿1 - Leia e armazene o número que foi digitado; #Entrada
-2 - Aplique a operação subtração entre o número que foi digitado e o número 1, e armazene o resultado como digito1; #Processamento
-3 - Aplique a operação subtração entre o número 10 e o número que foi digitado, e armazene o resultado como digito2; #Processamento
-4 - Aplique a operação multiplicação entre o digito1 e o número 10 e armazene o resultado; #Processamento
-5 - Aplique a operação adição entre o digito1 e o digito2 e armazene o resultado como resposta; #Processamento
-6 - Escreva resposta e finalize o programa. #Saída
